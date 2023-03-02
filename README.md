@@ -38,3 +38,8 @@ git fetch upstream
 ```
 git merge upstream/main -m "meaningful message about what you're updating"
 ```
+
+EXTRA: (ADDED BY ImMaxROss)
+1. Check remote fetch and upstream
+'''
+git remote -v
