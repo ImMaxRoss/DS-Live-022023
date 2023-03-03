@@ -43,3 +43,8 @@ EXTRA: (ADDED BY ImMaxROss)
 1. Check remote fetch and upstream
 '''
 git remote -v
+'''
+2. Clone a specific branch (not main or master)
+'''
+git clone -b <branch_name> --single-branch <https_github_repo>
+'''
