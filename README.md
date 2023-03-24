@@ -44,7 +44,7 @@ EXTRA: (ADDED BY ImMaxROss)
 '''
 git remote -v
 '''
-2. Clone a specific branch (not main or master)
+2. Clone a specific branch (not main or master) ex: branch named 'solution'
 '''
-git clone -b <branch_name> --single-branch <https_github_repo>
+git clone -b solution --single-branch <https_github_repo>
 '''
