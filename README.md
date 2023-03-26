@@ -39,20 +39,12 @@ git fetch upstream
 git merge upstream/main -m "meaningful message about what you're updating"
 ```
 
-EXTRA: (ADDED BY ImMaxROss)
+### Addendum: (ADDED BY ImMaxROss)
 1. Check remote fetch and upstream
 ```
 git remote -v
-<<<<<<< HEAD
 ```
 2. Clone a specific branch (not main or master)
 ```
 git clone -b <branch_name> --single-branch <https_github_repo>
 ```
-=======
-'''
-2. Clone a specific branch (not main or master) ex: branch named 'solution'
-'''
-git clone -b solution --single-branch <https_github_repo>
-'''
->>>>>>> 99a32b1c17a07a31f4331cfef5c9dc1c91b74f81
